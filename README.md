@@ -9,3 +9,5 @@ p (prob that at least one random sample is free from outliers): 0.99<br/>
 e (outlier ratio): 50%<br/>
 distance thredshold: 0.05<br/>
 N (number of samples): 1177
+
+See more details at: [Computer Vision Project 3 Website](http://all4win.github.io/projects/cv_proj3/index.html)
